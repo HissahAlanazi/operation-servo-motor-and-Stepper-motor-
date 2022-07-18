@@ -1,4 +1,4 @@
-# operation-servo-motor-and-Stepper-motor-
+# operation-Servo-motor-and-Stepper-motor-
                                                                                                                                                                        
                                                                                                                                                                        
 ### Stepper-motor
